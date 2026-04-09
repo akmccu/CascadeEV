@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#0A0F14"/>
+  <rect x="34" y="34" width="1132" height="562" rx="34" fill="#101722" stroke="#243041"/>
+  <text x="90" y="205" fill="#8FB6FF" font-size="28" font-family="Arial, sans-serif">Cascade EV</text>
+  <text x="90" y="300" fill="#F4F8FF" font-size="70" font-family="Arial, sans-serif" font-weight="700">Service Page</text>
+  <text x="90" y="360" fill="#B4C0D0" font-size="28" font-family="Arial, sans-serif">Tesla rentals, future sales, and EV service in Oregon</text>
+  <path d="M620 430C701 330 765 288 839 288C907 288 964 327 1058 430" stroke="#F4F8FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M602 430H1075C1047 474 1003 499 942 503H734C679 498 631 475 602 430Z" fill="#DCE9FF" opacity="0.95"/>
+  <circle cx="740" cy="450" r="34" fill="#0A0F14" stroke="#DCE9FF" stroke-width="7"/>
+  <circle cx="948" cy="450" r="34" fill="#0A0F14" stroke="#DCE9FF" stroke-width="7"/>
+</svg>

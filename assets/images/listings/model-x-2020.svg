@@ -1,0 +1,20 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#0A0F14"/>
+  <rect x="18" y="18" width="1164" height="724" rx="28" fill="url(#g)" stroke="#202937"/>
+  <text x="70" y="92" fill="#E9F2FF" font-size="34" font-family="Arial, sans-serif" font-weight="700">2020 Tesla Model X Long Range Plus</text>
+  <text x="70" y="128" fill="#8FB6FF" font-size="18" font-family="Arial, sans-serif">Sample listing visual • Cascade EV</text>
+  <path d="M0 560C160 500 270 475 410 485C520 492 610 528 720 540C845 553 980 513 1200 420V760H0V560Z" fill="#0D1520"/>
+  <path d="M60 520C145 420 240 320 360 250C470 186 592 157 690 175C770 190 835 225 906 230C985 237 1064 208 1142 152V565H60V520Z" fill="#111A26"/>
+  <path d="M182 508C260 421 329 367 412 319C486 276 577 248 649 255C721 262 777 303 841 311C905 319 971 300 1042 249V530H182V508Z" fill="#8FB6FF" opacity="0.25"/>
+  <path d="M305 510C379 438 423 408 476 388C548 360 606 355 694 360C773 366 833 389 910 431L985 505" stroke="#F2F7FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M290 510H1002C972 560 912 589 830 596H470C392 592 327 561 290 510Z" fill="#DCE9FF" opacity="0.9"/>
+  <circle cx="435" cy="533" r="49" fill="#0A0F14" stroke="#DCE9FF" stroke-width="8"/>
+  <circle cx="859" cy="533" r="49" fill="#0A0F14" stroke="#DCE9FF" stroke-width="8"/>
+  <text x="70" y="680" fill="#D5E4FF" font-size="28" font-family="Arial, sans-serif" font-weight="700">Spacious • Premium • Oregon road-trip ready</text>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101722"/>
+      <stop offset="1" stop-color="#0A0F14"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,23 @@
+<svg width="1200" height="760" viewBox="0 0 1200 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="760" rx="36" fill="#0A0F14"/>
+  <rect x="18" y="18" width="1164" height="724" rx="28" fill="url(#g)" stroke="#202937"/>
+  <text x="70" y="92" fill="#E9F2FF" font-size="34" font-family="Arial, sans-serif" font-weight="700">2026 Tesla Model Y AWD</text>
+  <text x="70" y="128" fill="#8FB6FF" font-size="18" font-family="Arial, sans-serif">Sample listing visual • Cascade EV</text>
+  <path d="M0 555C180 470 330 446 500 465C654 483 788 545 923 538C1006 534 1099 508 1200 462V760H0V555Z" fill="#101824"/>
+  <rect x="770" y="180" width="210" height="165" rx="18" fill="#101722" stroke="#2A3748"/>
+  <rect x="810" y="130" width="130" height="50" rx="14" fill="#DCE9FF" opacity="0.92"/>
+  <path d="M870 176V230" stroke="#0C1420" stroke-width="6" stroke-linecap="round"/>
+  <path d="M866 232C866 252 880 265 900 265C920 265 934 252 934 232" stroke="#8FB6FF" stroke-width="6" stroke-linecap="round"/>
+  <path d="M286 515C353 445 408 409 479 386C561 359 661 357 742 378C808 395 870 429 936 484" stroke="#F2F7FF" stroke-width="8" stroke-linecap="round"/>
+  <path d="M270 515H955C928 564 878 592 807 598H443C374 594 321 564 270 515Z" fill="#DCE9FF" opacity="0.96"/>
+  <circle cx="425" cy="535" r="49" fill="#0A0F14" stroke="#DCE9FF" stroke-width="8"/>
+  <circle cx="806" cy="535" r="49" fill="#0A0F14" stroke="#DCE9FF" stroke-width="8"/>
+  <path d="M156 281C237 229 307 205 372 206C425 207 493 226 555 226C633 226 714 194 823 118" stroke="#8FB6FF" stroke-width="4" stroke-dasharray="8 12" opacity="0.6"/>
+  <text x="70" y="680" fill="#D5E4FF" font-size="28" font-family="Arial, sans-serif" font-weight="700">Clean • Modern • Easy first EV experience</text>
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1200" y2="760" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#101722"/>
+      <stop offset="1" stop-color="#0A0F14"/>
+    </linearGradient>
+  </defs>
+</svg>

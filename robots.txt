@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://cascadeev.com/sitemap.xml
+Sitemap: https://evgorge.com/sitemap.xml
